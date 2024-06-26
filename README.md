@@ -11,6 +11,10 @@ This project aims to utilize genomic data for immuno-oncology applications in bl
 
 ## Data
 
+The data used in this project includes clinical data and genomic data. You can access the data from the following Google Drive link:
+
+[Data Retrieval Link](https://drive.google.com/drive/folders/1Hz2B5ISJvUQBVTqVat1wYjuhuxwp1mTs?usp=sharing)
+
 - **Clinical Data**: Contains patient demographics, treatment information, and cancer types.
 - **Genomic Data**: Contains gene expression levels for various genes.
 
@@ -20,8 +24,3 @@ This project aims to utilize genomic data for immuno-oncology applications in bl
 - Jupyter Notebook
 - Required Python libraries: pandas, numpy, sklearn, xgboost, matplotlib, seaborn, imbalanced-learn
 
-## Installation
-
-1. Install Jupyter Notebook:
-   ```bash
-   pip install jupyter
